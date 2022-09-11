@@ -4,11 +4,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-• ♂️ My name is Sahrul Muhammad Ilham
+• ♂️ My name is Sahrul
 
-• ⛩️ I am a anime lovers
+• ⛩️ I am Anime Lovers
 
-• 👦 I am 18 years old ^⁠_⁠^
+• 👦 I am 18 Years Old ^⁠_⁠^
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -49,7 +49,7 @@
 
     
 
-![Metrics](https://metrics.lecoq.io/Alpiii22?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2Fpasuruan)
+![Metrics](https://metrics.lecoq.io/Arull?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2Fpasuruan)
 
 </details> 
 
