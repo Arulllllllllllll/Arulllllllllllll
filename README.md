@@ -10,7 +10,7 @@
 
 - ♂️ My name is Arul 
 - ⛩️ I am anime lovers !
-- 🤠 I am 18 years old ◉‿◉
+- 🤠 I am 19 years old ◉‿◉
 </p>
 
 ------
@@ -18,9 +18,9 @@
 <p align="center">
   <a href="https://www.instagram.com/sahrulilham_09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/62895340684706"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a name=FatihArridho&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/fatiharridho"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=green&style=flat-square&label=Profile+View"></a>
+  <a name=Arulllllllllllll&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/Arulllllllllllll"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://komarev.com/ghpvc/?username=Arulllllllllllll &color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Arulllllllllllll &color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
 ### My Waifu 😼
