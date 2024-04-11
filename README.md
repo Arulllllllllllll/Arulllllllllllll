@@ -16,7 +16,7 @@
 ------
 ### Connect with me ☎️
 <p align="center">
-  <a href="https://www.instagram.com/sahrulilham_09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://www.instagram.com/arul09_09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/62895340684706"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a name=Arulllllllllllll&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/Arulllllllllllll"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
